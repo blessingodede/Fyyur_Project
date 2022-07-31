@@ -55,9 +55,9 @@ Our backend tech stack will include the following:
 
 ## Front Dependencies
 
-* **HTML
-* **CSS
-* **Javascript with [Bootstrap 3](https://getbootstrap.com/docs/3.4/customize/) 
+* **HTML**
+* **CSS**
+* **Javascript** with [Bootstrap 3](https://getbootstrap.com/docs/3.4/customize/) 
 
 ### Main Files: Project Structure
 
