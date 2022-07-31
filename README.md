@@ -18,7 +18,7 @@ Fyyur is an application where musical artists can meet musical venues.
 
 Our backend tech stack will include the following:
 
-* **A virtual environment provided in the workspace
+* **A virtual environment** provided in the workspace
 * **SQLAlchemy ORM** to be our ORM library of choice
 * **PostgreSQL** as our database of choice
 * **Python3** and **Flask** as our server language and server framework
